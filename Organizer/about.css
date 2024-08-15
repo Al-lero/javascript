@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+
+body{
+    border: 2px solid black;
+    border-radius: 6px;
+    width: 80rem;
+    height: 60rem; 
+    background-color: yellowgreen;
+  
+}
+
+.welcome{
+    color: strong brown;
+}
+
+.header{
+    justify-content: center;
+}

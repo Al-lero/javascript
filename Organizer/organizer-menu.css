@@ -1,0 +1,43 @@
+.buttons{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 7px;
+    border: none;
+    background-color: aqua;
+    font-size: 1rem 
+}
+
+.buttons:hover{
+    transform: scale(1,1);
+    background-color: aquamarine;
+}
+
+body{
+    background-color: grey;
+}
+
+.welcome{
+    font-size: 65px;
+    font-weight: 630;
+    color:blue;
+    margin-bottom: 0;
+    font-family: "Sharp Sans",Arial,sans-serif;
+    line-height: 70px;
+    margin-left: 25rem;
+}
+
+.user-choice{
+    font-size: 50px;
+    font-weight: 600;
+    color:blue;
+    margin-bottom: 0;
+    font-family: "Sharp Sans",Arial,sans-serif;
+    line-height: 65px;
+    margin-left: 10rem;
+}
+
+.button-container{
+    display: flex;
+    gap: 50px;
+    margin-top:40px;
+}

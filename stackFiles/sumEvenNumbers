@@ -1,0 +1,12 @@
+function addEven(result , currentValue) {
+    if(currentValue % 2 === 0) {
+        return result + currentValue;
+    }
+    return result;
+}
+function reducer(){
+    console.log(currentValue.reduce(addEven))
+}
+reducer();
+
+module.exports = addEven

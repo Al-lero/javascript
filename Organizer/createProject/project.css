@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    border-radius: 6px;
+    min-width: 5vw;
+    min-height: 35rem;
+    background-color: rgb(233,255,255);
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70vw;
+    gap:7rem;
+}
+
+input{
+    border-radius: 7px;
+    height: 2rem;
+    width: 14rem;
+    margin-bottom: 2rem;
+}
+
+.project-text{
+    font-size: 3rem;
+    font-family: Inter, sans-serif;
+}
+
+.save-button{
+    border-radius: 7px;
+    height: 2rem;
+    width: 14rem;
+}

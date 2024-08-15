@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navWrapper{
+    width: 100vw;
+    background-color: black;
+}
+
+.navBar{
+    width: 90vw;
+    display: flex;
+    justify-content: flex-start;
+   align-items: center;
+    margin: auto;
+    height: 80px;
+}
+
+.first{ 
+    
+    
+}
+
+.getPlus{
+    color:whitesmoke;
+
+}
+
+.dis{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    
+}
+
+.cover{
+    margin-left: 30px;
+    color: whitesmoke;
+}
+
+.play{
+    color: whitesmoke;
+}
+
+.orig{
+    color: whitesmoke;
+}
+
+.create{
+    color: whitesmoke;
+    
+    
+}
+.line{
+    color: whitesmoke;
+}
+
+.sign{
+    color: whitesmoke;
+
+}
+
+.upload{
+    color: whitesmoke;
+}

@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: url(welcome.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40%vh;
+    width: 30%vw;
+}
+
+body{
+    border-radius: 6px;
+   border: 2px solid grey;
+   min-width: 60vw;
+   min-height: 55vw;
+   background-color:gray
+}
+
+.wrapper{
+    min-width: 70vw;
+   margin: auto;
+   /* display: flex; */
+   
+}
+
+.note{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 0; 
+    margin-right: 10%;
+    margin-top: 50px;
+    color: solid black;
+    gap: 80px;
+}
+
+.task{
+    font-size: larger;
+    color: blue;
+}
+
+.project{
+    font-size: larger;
+    color: blue;
+}

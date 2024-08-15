@@ -1,0 +1,310 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.semihead{
+    display: flex;
+    flex-direction: row;
+    gap: 250px;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.semiheadword{
+    display: flex;
+    gap: 50px;
+}
+.individual1{
+    color: rgb(56,81,109);
+}
+.business2{
+    color:rgb(56,81,109);
+}
+
+.about3{
+    color: rgb(56,81,109);
+}
+
+.career4{
+    color: rgb(56,81,109);
+}
+
+.impact5{
+    color: rgb(56,81,109);
+}
+
+.buttontalent{
+    color: rgb(255,46,54);
+    border-radius: 7px;
+    width: 160px;
+    height: 40px;
+    border-color: #ff3d4c;
+    background-color: white;
+}
+.buttontalent{
+    margin-bottom: 16px;
+}
+.semicolonlogo{
+    margin-bottom: 25px;
+}
+.heading{
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+    padding-left: 50px;
+    gap: 16px;
+}
+
+ .image{
+    margin-top: -80px;
+    height: 50px;
+ }
+ .Accelerating1{
+    margin-top: 60px;
+ }
+ .wordImage{
+    width: 600px;
+    height: auto;
+ }
+ .Accelerating1{
+    color:rgb(56,81,109);
+    font: caption;
+    font-size: 25px;
+
+
+ }
+ .paragrap{
+    padding-top: 10px;
+    color:rgb(56,81,109);
+    font: caption;
+    font-size: 15px;
+    padding-bottom: 16px;
+}
+
+.option-buttto{
+    display: flex;
+   
+}
+
+.help{
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+}
+
+.forIndividuals button{
+    color: white;
+    width: 160px;
+    height: 40px;
+    border-radius: 9px;
+    border: none;
+    background-color:#ff2e2e;
+   
+    
+}
+
+.forBusiness button{
+    color: #ff2e2e;
+    width: 160px;
+    height: 40px;
+    border-radius: 9px;
+    border-color:#ff2e2e;
+    background-color: white;
+}
+
+.word{
+    padding-top: 50px;  
+    padding-left: 50px;
+    color:rgb(56,81,109) ;
+    
+}
+
+.we{
+    color: #ff2e2e;
+}
+
+.word{
+    margin-top: 60px;
+    padding-top: 50px;
+}
+.strongIndiviuals{
+    /*margin-top: 60px;*/
+    color:whitesmoke ;
+    background-color:#ff2e2e;
+    border-radius: 7px;
+    height: 200px;
+    width:450px;
+    padding-top: 50px;
+    padding-left: 40px;  
+
+}
+
+.supportBusiness{
+    color:whitesmoke ;
+    background-color:#ff2e2e;
+    border-radius: 7px;
+    height: 200px;
+    width:450px;
+    padding-top: 50px;
+    padding-left: 40px;
+}
+
+.TechnologyTraining{
+    color: #ff2e2e;
+   
+}
+
+.training-image{
+    margin-left: 480px;
+    margin-top: 200px;
+}
+
+.tranning-word{
+    margin-left: 619px;
+    background-color:#ff2e2e;
+    border-radius: 7px;
+    color: whitesmoke;
+    width: 500px;
+    height: 140px;
+    padding-top: 20px;
+    padding-left: 40px; 
+   
+    
+}
+
+.totalTechnology{
+    display: box;
+    margin-left: 90px;
+
+}
+
+.talentPlace{
+    display: box;
+    margin-left:90px ;
+}
+
+.TalentPlacement{
+    margin-right: 6px;
+    color:#ff2e2e ;
+    /*background-color:#ff2e2e;
+    border-radius: 7px;
+    color: whitesmoke;
+    width: 500px;
+    height: 140px;
+   /* padding-top: 20px;*/
+    padding-left: 40px; 
+    font-size: large;
+
+}
+
+
+.placement-image{
+    margin-left: 480px;
+    margin-top: 200px;
+}
+.talent{
+    margin-left: 619px;
+    color:whitesmoke ;
+    background-color:#ff2e2e;
+    border-radius: 7px;
+    width: 550px;
+    height: 140px;
+    padding-top: 20px;
+    padding-left: 40px; 
+
+}
+
+.learn{
+    color: whitesmoke;
+}
+
+.employeeSkilling{
+    display: box;
+    margin-left:90px
+
+}
+
+.upskilling{
+    margin-right: 6px;
+    color:#ff2e2e ;
+    font-size: large;
+}
+
+.employee-image{
+    margin-left: 480px;
+    margin-top: 200px;
+}
+
+.skill{
+    margin-left: 619px;
+    color:whitesmoke ;
+    background-color:#ff2e2e;
+    border-radius: 7px;
+    width: 550px;
+    height: 140px;
+    padding-top: 20px;
+    padding-left: 40px;  
+}
+
+ .project{
+    display: box;
+    margin-left:90px
+}
+
+  .project1{
+    margin-left: 6px;
+    color:#ff2e2e ;
+    font-size: large; 
+    padding-bottom: 20px;
+}    
+ 
+
+ .image2{
+    /* margin-bottom: 150px; */
+    /* margin-left: 50px */
+    padding-top: 200px;
+     
+} 
+
+ .digital{
+    margin-left: 520px;
+    color:whitesmoke ;
+    background-color:#ff2e2e;
+    border-radius: 7px;
+    width: 550px;
+    height: 140px;
+    /* padding-top: 20px; */
+    padding-left: 40px;   
+} 
+
+.logos{
+    background-color: #f2f9ff;
+    
+}
+.enum{
+    margin-left: 550px;
+}
+.imagessss{
+    display: flex;
+    flex-direction: row;
+}
+.plac{
+    color: #008eef;
+}
+.wrdd{
+    margin-left: 350px;
+    color: #526881;
+
+}
+
+.learn{
+    color: white;
+    background-color: #008eef; 
+    border-radius: 8px;
+    width: 100px;
+    height: 80px;
+    border:none;
+}
+.global{
+    margin-left: 200px;
+}

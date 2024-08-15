@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+     
+}
+
+.main{
+    position: absolute;
+    height: 48px;
+    left: 30px;
+    top: 36px;
+    width: 90vw;
+
+}
+
+
+.navBar{
+    position: absolute;
+    width: 90vw;
+    height: 398px;
+    left: 10px;
+    top: 189px;
+}
+
+.sec{
+    position: absolute;
+    width: 40vw;
+    height: 651px;
+    left: 450px;
+    bottom:-220px;
+    background: #F7F7F7;
+    box-shadow: -7.32255px 14.6451px 41.4506px rgba(40, 44, 66, 0.06);
+    border-radius: 16px;
+    transform: matrix(1, -0.02, 0.07, 1, 0, 0);
+
+}
+
+.color{
+    /* position: absolute; */
+    width: 1470px; 
+    height: 710px;
+    left: -30px;
+    top: 0px;
+
+
+}
+
+.aboutUs{
+    position: absolute;
+    width: 120vw;
+    height: 413px;
+    left: 0px;
+    top: 906px;
+}
+
+.features{
+    position: absolute;
+    /* width: 1119px; */
+    height: 1392px;
+    left: 100px;
+    top: 1466px;
+}
+
+.testimony{
+    position: absolute;
+    /* width: 1440px; */
+    width: 70vw;
+    height: 666px;
+    left: 0px;
+    top: 3006px;
+}
+
+.price{
+    position: absolute;
+    width: 90vw;
+    height: 1406.36px;
+    left: 0px;
+    top: 1800px;
+}
+
+.foot{
+    position: absolute;
+    width: 50vw;
+    height: 691px;
+    left: 0px;
+    right: 10px;
+    top: 4804px;
+
+
+}
