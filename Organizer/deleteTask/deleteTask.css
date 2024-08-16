@@ -2,17 +2,21 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    background-color: beige;
+    
 }
 
 body{
     border-radius: 6px;
-}
-
-.wrapper{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 10%;
 }
+
+/* .wrapper{
+    
+} */
 
 
 input{

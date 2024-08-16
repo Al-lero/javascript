@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./project.css">
+    <script src="./project.js" defer></script>
 </head>
 <body>
     <div class="wrapper">
@@ -14,18 +15,17 @@
         <div class="main">
             <h1 class="project-text">Kindly Create Your Project Here<br><br></h1>
             <div class="Wrap" id="wrap">
-                <form action="">
-                    <!-- <label for="">Name:    </label> -->
-                    <input placeholder="Name" type="text">
-                </div>
-                <div>
-                <!-- <label for="">--><div> 
-                    <!-- Description:     </label> -->
-                    <input placeholder="Description" type="text">
-                </div>
+                <form action="#" id="form">                
                     <div>
-                        <button class=save-button>save</button>
+                        <input placeholder="Name" id="name" type="text">
                     </div>
+                    <div>                            
+                        <input placeholder="Description" id="description" type="text">
+                    </div>
+                    <div>
+                        <button class="submit">save</button>
+                    </div>                                       
+                </form>
         </div>
         
     </div>

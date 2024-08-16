@@ -24,7 +24,8 @@ form.addEventListener('submit',async(e)=>{
             const result = await response.text();
             alert("success")
             console.log(result);
-            window.location.href="./organizer.html"
+
+           window.location.href="http://127.0.0.1:5500/Organizer/organizer-menu.html"
             
         }
         else{
